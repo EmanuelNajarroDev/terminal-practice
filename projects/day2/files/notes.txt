@@ -1,0 +1,7 @@
+Notes
+
+Generally, run git commands and push from terminal-practice, or the second
+directory within the structure.
+
+Also, make sure to periodically push commits for the purpose of tracking and
+organization.
