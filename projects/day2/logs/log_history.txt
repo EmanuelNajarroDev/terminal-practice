@@ -1,0 +1,17 @@
+commit e1f833c87c60509757972995278e0f89354832d5
+Author: Emanuel Najarro <emanuel.najarro.dev@gmail.com>
+Date:   Wed May 28 09:43:42 2025 -0400
+
+    Added text to notes.txt
+
+commit 31910e29e7a0aa91f30234417cb09e4e2e306850
+Author: Emanuel Najarro <emanuel.najarro.dev@gmail.com>
+Date:   Wed May 28 09:32:53 2025 -0400
+
+    Added files, logs, scripts, and test_files directories to day2 for organization
+
+commit d85d29ad0edabed399beaff1f5a0e2fe0a2da515
+Author: Emanuel Najarro <emanuel.najarro.dev@gmail.com>
+Date:   Wed May 21 19:09:55 2025 -0400
+
+    Initial commit
